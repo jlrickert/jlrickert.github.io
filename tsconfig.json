@@ -18,8 +18,10 @@
 			"Api/*": ["./src/Api/*"],
 			"Components/*": ["./src/Components/*"],
 			"Context/*": ["./src/Context/*"],
+			"Data/*": ["./src/Data/*"],
 			"Hooks/*": ["./src/Hooks/*"],
 			"Layouts/*": ["./src/Layouts/*"],
+			"Lib/*": ["./src/Lib/*"],
 			"Models/*": ["./src/Models/*"],
 			"Pages/*": ["./src/Pages/*"]
 		}
