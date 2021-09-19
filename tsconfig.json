@@ -15,15 +15,11 @@
 		"jsx": "preserve",
 		"baseUrl": ".",
 		"paths": {
-			"Api/*": ["./src/Api/*"],
-			"Components/*": ["./src/Components/*"],
-			"Context/*": ["./src/Context/*"],
-			"Data/*": ["./src/Data/*"],
-			"Hooks/*": ["./src/Hooks/*"],
-			"Layouts/*": ["./src/Layouts/*"],
-			"Lib/*": ["./src/Lib/*"],
-			"Models/*": ["./src/Models/*"],
-			"Pages/*": ["./src/Pages/*"]
+			"components/*": ["./src/components/*"],
+			"context/*": ["./src/context/*"],
+			"hooks/*": ["./src/hooks/*"],
+			"lib/*": ["./src/lib/*"],
+			"models/*": ["./src/Models/*"]
 		}
 	},
 	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
